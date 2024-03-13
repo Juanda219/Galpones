@@ -1,0 +1,12 @@
+C:\Users\JUAN DAVID\source\repos\Galpones\Repositorios\bin\Debug\net6.0\Abstraciones.Repositorios.deps.json
+C:\Users\JUAN DAVID\source\repos\Galpones\Repositorios\bin\Debug\net6.0\Abstraciones.Repositorios.dll
+C:\Users\JUAN DAVID\source\repos\Galpones\Repositorios\bin\Debug\net6.0\Abstraciones.Repositorios.pdb
+C:\Users\JUAN DAVID\source\repos\Galpones\Repositorios\obj\Debug\net6.0\Abstraciones.Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN DAVID\source\repos\Galpones\Repositorios\obj\Debug\net6.0\Abstraciones.Repositorios.AssemblyInfoInputs.cache
+C:\Users\JUAN DAVID\source\repos\Galpones\Repositorios\obj\Debug\net6.0\Abstraciones.Repositorios.AssemblyInfo.cs
+C:\Users\JUAN DAVID\source\repos\Galpones\Repositorios\obj\Debug\net6.0\Abstraciones.Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\JUAN DAVID\source\repos\Galpones\Repositorios\obj\Debug\net6.0\Abstraciones.Repositorios.sourcelink.json
+C:\Users\JUAN DAVID\source\repos\Galpones\Repositorios\obj\Debug\net6.0\Abstraciones.Repositorios.dll
+C:\Users\JUAN DAVID\source\repos\Galpones\Repositorios\obj\Debug\net6.0\refint\Abstraciones.Repositorios.dll
+C:\Users\JUAN DAVID\source\repos\Galpones\Repositorios\obj\Debug\net6.0\Abstraciones.Repositorios.pdb
+C:\Users\JUAN DAVID\source\repos\Galpones\Repositorios\obj\Debug\net6.0\ref\Abstraciones.Repositorios.dll
