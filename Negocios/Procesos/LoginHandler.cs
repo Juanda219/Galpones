@@ -34,6 +34,7 @@ namespace Negocios.Procesos
   
                 response.Mensaje = result.Mensaje;
                 response.NombreEmpresa = result.NombreEmpresa;
+                response.IdEmpresa = result.IdEmpresa;
                 return response;
             }
 

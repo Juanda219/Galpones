@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Abstraciones.Repositorios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e1fe6afdb1c67ee25835986d7dd770f7f33d0c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc52930617dae49df075876eab317d2eaeabccd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Abstraciones.Repositorios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Abstraciones.Repositorios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

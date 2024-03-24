@@ -26,7 +26,7 @@ namespace WebApiGalpones.Controllers
 
 
 
-            if (resultado.Equals("Ok"))
+            if (resultado.Mensaje.Equals("Ok"))
             {
 
         
@@ -35,7 +35,7 @@ namespace WebApiGalpones.Controllers
                 return Ok(
                     new
                     {
-                        Id_Empresa = resultado.Mensaje,
+                        Id_Empresa = resultado.IdEmpresa,
                         NombreEmpresa = resultado.NombreEmpresa,
              
 
