@@ -13,8 +13,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddMediatR(c => c.RegisterServicesFromAssemblyContaining<Program>());
+builder.Services.AddScoped(typeof(IVerificateLogin), typeof(VerificateLogin));
+builder.Services.AddScoped(typeof(IVentaRepository), typeof(VentaRepository));
 builder.Services.AddScoped(typeof(IDatabaseConectionFactory), typeof(DatabaseConnectionFactory));
 builder.Services.AddScoped<IRequestHandler<LoginCommand, LoginResponse>, LoginHandler>();
+builder.Services.AddScoped<IRequestHandler<VentaCommand, VentaCommandResponse>, VentaHandler>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
